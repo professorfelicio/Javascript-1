@@ -1,0 +1,17 @@
+h1{
+    color: darkorchid;
+    /*background-color:rgb(239, 220, 248);
+*/
+background-image:linear-gradient(to right,rgb(239, 220, 248),transparent)
+}
+
+h2 {
+    color: orange;
+    background-image:linear-gradient(to right,rgb(250, 227, 184),transparent)
+}
+
+h3 {
+    color:cornflowerblue;
+    /*background-image:linear-gradient(to right,rgb(250, 227, 184),transparent)
+    */
+}
